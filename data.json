@@ -110,32 +110,32 @@
     "testimonials":[
         {
             "name":"Caleb Okkers",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/caleb2.jpg?raw=true",
             "message":"Nazneen is a critical thinker and a diligent worker. She is a strong problem solver who thrives when working alone or in a collaborative setting. As a person she is kind, honest and light-hearted. She has a great sense of humour and is a joy to be around. Nazneen would be an incredible asset to any organization."
         },
         {
             "name":"Mahmud Isaacs",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/mahmud2.jpg?raw=true",
             "message":"Nazneen's unwavering dedication to excellence and her collaborative spirit makes her indispensable in every project she undertakes. She is not only a great asset to any team but also an exemplar of exceptional problem-solving skills .She works well in fast-paced environments and consistently delivering brilliant results"
         },
         {
             "name":"Caitlin Dalwai",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/caitlin2.jpg?raw=true",
             "message":"I met Nazneen through Life Choices Academy Coding course. Nazneen is always open to learn more and improve her ability. This is a great attribute to have as it allows her to gain a lot of knowledge from different perspectives and use it to achieve the result she wants. This also aids to her being a team player and a more than pleasant person to work with"
         },
         {
             "name":"Zen George",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/zen.jpg?raw=true",
             "message":"Having Nazneen as a classmate has been a delightful experience. Her dedication to their studies, combined with their friendly and supportive demeanor, creates a positive atmosphere for everyone around them."
         },
         {
             "name":"Jordan Springveldt",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/jordan.jpg?raw=true",
             "message":"Nazneen is such a sweet person and getting to be able to experience this course with her is amazing.  She is so hard-working and very perseverant. I am so glad I have met her.She isn't afraid to ask for help and is a joy to work with. I cannot wait to see her future successes after the course."
         },
         {
             "name":"Kiara",
-            "position":"Classmate",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/kiara2.jpg?raw=true",
             "message":"Nazneen is a captivating presence in our classroom. Behind her quiet demeanor lies a wealth of knowledge and depth that intrigues us all. Her subtle yet profound contributions to discussions leave us wanting to uncover more about the fascinating person she is. As a friend and classmate, Nazneen brings an intriguing aura that keeps us engaged and curious about her unique perspective on the world."
         }
     ]
