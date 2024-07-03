@@ -6,42 +6,35 @@
             "github":"https://github.com/nazabrahams/calculator.git",
             "vercel":"https://calculator-ryzb.vercel.app/",
             "description":"A calculator is a device or tool used for performing mathematical computations quickly and accurately. It typically features numerical keys, arithmetic functions (+, -, *, /), and sometimes advanced functions like trigonometry or logarithms, displayed on a digital or analog interface.",
-            "image":""
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/calculator.png?raw=true"
         },     
         {
             "name":"BMI Calculator", 
             "github":"https://github.com/nazabrahams/BMI-calc.git",
             "vercel":"https://bmi-calc-mu.vercel.app/",
             "description":"A BMI calculator computes an individual's Body Mass Index based on their weight and height. It categorizes them as underweight, normal weight, overweight, or obese, providing a rough indicator of health risks associated with weight.",
-            "image":""
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/bmi.png?raw=true"
         },
         {
             "name":"Tempreture Converter",
             "github":"https://github.com/nazabrahams/Temperature-convertor.git",
             "vercel":"https://temperature-convertor-three-taupe.vercel.app/",
             "description":"A temperature converter is a tool that converts temperatures between different units such as Celsius and Fahrenheit. It allows users to input a temperature in one unit and instantly see its equivalent in another unit, facilitating easy comparison and understanding across different temperature scales.",
-            "image":""
-        },
-        {
-            "name":"Keyboard",
-            "github":"https://github.com/nazabrahams/keyboard.git",
-            "vercel":"https://keyboard-ten-chi.vercel.app/",
-            "description":"A keyboard is a peripheral input device used with computers and other electronic devices for typing text and executing commands. It consists of keys arranged in a standardized layout, including letters, numbers, symbols, and function keys, which are pressed to input characters or control functions.",
-            "image":""
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/temp.png?raw=true"
         },
         {
             "name":"Project 1 - Portfolio",
             "github":"https://github.com/nazabrahams/finalproject1.git",
             "vercel":"https://finalproject1-five.vercel.app/",
             "description":"A keyboard is a peripheral input device used with computers and other electronic devices for typing text and executing commands. It consists of keys arranged in a standardized layout, including letters, numbers, symbols, and function keys, which are pressed to input characters or control functions.",
-            "image":""
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/portfolio.png?raw=true"
         },
         {
             "name":"Project 2 - Ecom",
             "github":"https://github.com/nazabrahams/moduleproject2.git",
             "vercel":"https://moduleproject2.vercel.app/",
             "description":"my ecommerce website featured a user-friendly interface for buying plush teddies and clothes. It focused on quality products, secure payments, and excellent customer service, ensuring a seamless shopping experience.",
-            "image":""
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/ecom.png?raw=true"
         }
     ],
     
@@ -83,11 +76,11 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"URL"
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/html%20logo%201.png?raw=true"
         },
         {
             "name":"CSS",
-            "image":"URL"
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/CSS-Logo%201.png?raw=true"
         },
         {
             "name":"Javascript",
@@ -95,11 +88,11 @@
         },
         {
             "name":"GitHub",
-            "image":"URL"
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true"
         },
         {
             "name":"Bootstrap",
-            "image":"URL"
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/bootstrap1.png?raw=true"
         }
     ],
     "workExp":[
@@ -109,7 +102,7 @@
             "description":"Worked as a christmas casual from novenmber to january. I helped assit in the store",
             "contact":{
                 "name":"Asma",
-                "cell":"",
+                "cell":"098567332",
                 "position":"Store Manager"
             }
         }
@@ -117,32 +110,32 @@
     "testimonials":[
         {
             "name":"Caleb Okkers",
-            "position":"",
+            "position":"Classmate",
             "message":"Nazneen is a critical thinker and a diligent worker. She is a strong problem solver who thrives when working alone or in a collaborative setting. As a person she is kind, honest and light-hearted. She has a great sense of humour and is a joy to be around. Nazneen would be an incredible asset to any organization."
         },
         {
             "name":"Mahmud Isaacs",
-            "position":"",
+            "position":"Classmate",
             "message":"Nazneen's unwavering dedication to excellence and her collaborative spirit makes her indispensable in every project she undertakes. She is not only a great asset to any team but also an exemplar of exceptional problem-solving skills .She works well in fast-paced environments and consistently delivering brilliant results"
         },
         {
             "name":"Caitlin Dalwai",
-            "position":"",
+            "position":"Classmate",
             "message":"I met Nazneen through Life Choices Academy Coding course. Nazneen is always open to learn more and improve her ability. This is a great attribute to have as it allows her to gain a lot of knowledge from different perspectives and use it to achieve the result she wants. This also aids to her being a team player and a more than pleasant person to work with"
         },
         {
             "name":"Zen George",
-            "position":"",
+            "position":"Classmate",
             "message":"Having Nazneen as a classmate has been a delightful experience. Her dedication to their studies, combined with their friendly and supportive demeanor, creates a positive atmosphere for everyone around them."
         },
         {
             "name":"Jordan Springveldt",
-            "position":"",
+            "position":"Classmate",
             "message":"Nazneen is such a sweet person and getting to be able to experience this course with her is amazing.  She is so hard-working and very perseverant. I am so glad I have met her.She isn't afraid to ask for help and is a joy to work with. I cannot wait to see her future successes after the course."
         },
         {
             "name":"Kiara",
-            "position":"",
+            "position":"Classmate",
             "message":"Nazneen is a captivating presence in our classroom. Behind her quiet demeanor lies a wealth of knowledge and depth that intrigues us all. Her subtle yet profound contributions to discussions leave us wanting to uncover more about the fascinating person she is. As a friend and classmate, Nazneen brings an intriguing aura that keeps us engaged and curious about her unique perspective on the world."
         }
     ]
