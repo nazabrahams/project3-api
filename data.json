@@ -3,36 +3,36 @@
     "projects":[
         {
             "name":"Calculator",
-            "github":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true",
-            "vercel":"https://github.com/nazabrahams/hostedimages3/blob/main/vercel1868-removebg-preview.png?raw=true",
+            "github":"https://github.com/nazabrahams/calculator.git",
+            "vercel":"https://calculator-ryzb.vercel.app/",
             "description":"A calculator is a device or tool used for performing mathematical computations quickly and accurately. It typically features numerical keys, arithmetic functions (+, -, *, /), and sometimes advanced functions like trigonometry or logarithms, displayed on a digital or analog interface.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/calculator.png?raw=true"
         },     
         {
             "name":"BMI Calculator", 
-            "github":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true",
-            "vercel":"https://github.com/nazabrahams/hostedimages3/blob/main/vercel1868-removebg-preview.png?raw=true",
+            "github":"https://github.com/nazabrahams/BMI-calc.git",
+            "vercel":"https://bmi-calc-mu.vercel.app/",
             "description":"A BMI calculator computes an individual's Body Mass Index based on their weight and height. It categorizes them as underweight, normal weight, overweight, or obese, providing a rough indicator of health risks associated with weight.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/bmi.png?raw=true"
         },
         {
             "name":"Tempreture Converter",
-            "github":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true",
-            "vercel":"https://github.com/nazabrahams/hostedimages3/blob/main/vercel1868-removebg-preview.png?raw=true",
+            "github":"https://github.com/nazabrahams/Temperature-convertor.git",
+            "vercel":"https://temperature-convertor-three-taupe.vercel.app/",
             "description":"A temperature converter is a tool that converts temperatures between different units such as Celsius and Fahrenheit. It allows users to input a temperature in one unit and instantly see its equivalent in another unit, facilitating easy comparison and understanding across different temperature scales.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/temp.png?raw=true"
         },
         {
             "name":"Project 1 - Portfolio",
-            "github":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true",
-            "vercel":"https://github.com/nazabrahams/hostedimages3/blob/main/vercel1868-removebg-preview.png?raw=true",
+            "github":"https://github.com/nazabrahams/finalproject1.git",
+            "vercel":"https://finalproject1-five.vercel.app/",
             "description":"A keyboard is a peripheral input device used with computers and other electronic devices for typing text and executing commands. It consists of keys arranged in a standardized layout, including letters, numbers, symbols, and function keys, which are pressed to input characters or control functions.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/portfolio.png?raw=true"
         },
         {
             "name":"Project 2 - Ecom",
-            "github":"https://github.com/nazabrahams/newimages/blob/main/newimages/github.png?raw=true",
-            "vercel":"https://github.com/nazabrahams/hostedimages3/blob/main/vercel1868-removebg-preview.png?raw=true",
+            "github":"https://github.com/nazabrahams/moduleproject2.git",
+            "vercel":"https://moduleproject2.vercel.app/",
             "description":"my ecommerce website featured a user-friendly interface for buying plush teddies and clothes. It focused on quality products, secure payments, and excellent customer service, ensuring a seamless shopping experience.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/ecom.png?raw=true"
         }
