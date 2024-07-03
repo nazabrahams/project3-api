@@ -114,15 +114,16 @@
             "message":"Nazneen is a critical thinker and a diligent worker. She is a strong problem solver who thrives when working alone or in a collaborative setting. As a person she is kind, honest and light-hearted. She has a great sense of humour and is a joy to be around. Nazneen would be an incredible asset to any organization."
         },
         {
-            "name":"Mahmud Isaacs",
+           "name":"Caitlin Dalwai",
+            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/caitlin2.jpg?raw=true",
+             "message":"I met Nazneen through Life Choices Academy Coding course. Nazneen is always open to learn more and improve her ability. This is a great attribute to have as it allows her to gain a lot of knowledge from different perspectives and use it to achieve the result she wants. This also aids to her being a team player and a more than pleasant person to work with"
+               },
+        {
+           "name":"Mahmud Isaacs",
             "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/mahmud2.jpg?raw=true",
             "message":"Nazneen's unwavering dedication to excellence and her collaborative spirit makes her indispensable in every project she undertakes. She is not only a great asset to any team but also an exemplar of exceptional problem-solving skills .She works well in fast-paced environments and consistently delivering brilliant results"
         },
-        {
-            "name":"Caitlin Dalwai",
-            "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/caitlin2.jpg?raw=true",
-            "message":"I met Nazneen through Life Choices Academy Coding course. Nazneen is always open to learn more and improve her ability. This is a great attribute to have as it allows her to gain a lot of knowledge from different perspectives and use it to achieve the result she wants. This also aids to her being a team player and a more than pleasant person to work with"
-        },
+       
         {
             "name":"Zen George",
             "image":"https://github.com/nazabrahams/newimages/blob/main/newimages/zen.jpg?raw=true",
