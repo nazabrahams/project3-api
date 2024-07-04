@@ -43,34 +43,34 @@
             "description":"Highschool",
             "year":"2018-2022",
             "placeOfInstitution":"Norman Henshilwood Highschool",
-            "contact":[
-                {
+            "contact":"",
+                
                     "name":"Principal",
                     "contactDetails":"0974923086"
-                }
-            ]
+                
+            
         },
         {
             "description":"University",
             "year":"2023",
             "placeOfInstitution":"Stellenbosch University",
-            "contact":[
-                {
+            "contact":"",
+                
                     "name":"Dean",
                     "contactDetails":"045683362"
-                }
-            ]
+                
+            
         },
         {
             "description":"Coding academy",
             "year":"2nd Aprill 2024- the present",
             "placeOfInstitution":"Life Choices Coding Academy",
-            "contact":[
-                {
+            "contact":"",
+                
                     "name":"Candace Armon",
                     "contactDetails":"097266433"
-                }
-            ]
+                
+            
         }
     ],
     "skills":[
