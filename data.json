@@ -5,7 +5,7 @@
             "name":"Calculator",
             "github":"https://github.com/nazabrahams/calculator.git",
             "vercel":"https://calculator-ryzb.vercel.app/",
-            "description":"A calculator is a device or tool used for performing mathematical computations quickly and accurately. It typically features numerical keys, arithmetic functions (+, -, *, /), and sometimes advanced functions like trigonometry or logarithms, displayed on a digital or analog interface.",
+            "description":"A calculator is a device or tool used for performing mathematical computations quickly and accurately. It typically features numerical keys, arithmetic functions (+, -, *, /).",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/calculator.png?raw=true"
         },     
         {
@@ -19,14 +19,14 @@
             "name":"Tempreture Converter",
             "github":"https://github.com/nazabrahams/Temperature-convertor.git",
             "vercel":"https://temperature-convertor-three-taupe.vercel.app/",
-            "description":"A temperature converter is a tool that converts temperatures between different units such as Celsius and Fahrenheit. It allows users to input a temperature in one unit and instantly see its equivalent in another unit, facilitating easy comparison and understanding across different temperature scales.",
+            "description":"A temperature converter is a tool that converts temperatures between different units such as Celsius and Fahrenheit.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/temp.png?raw=true"
         },
         {
             "name":"Project 1 - Portfolio",
             "github":"https://github.com/nazabrahams/finalproject1.git",
             "vercel":"https://finalproject1-five.vercel.app/",
-            "description":"A keyboard is a peripheral input device used with computers and other electronic devices for typing text and executing commands. It consists of keys arranged in a standardized layout, including letters, numbers, symbols, and function keys, which are pressed to input characters or control functions.",
+            "description":"The first version of my portfolio",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/portfolio.png?raw=true"
         },
         {
@@ -35,6 +35,13 @@
             "vercel":"https://moduleproject2.vercel.app/",
             "description":"my ecommerce website featured a user-friendly interface for buying plush teddies and clothes. It focused on quality products, secure payments, and excellent customer service, ensuring a seamless shopping experience.",
             "image":"https://github.com/nazabrahams/hostedimages3/blob/main/ecom.png?raw=true"
+        },
+        {
+            "name":"Swegga App",
+            "github":"https://github.com/nazabrahams/swegga",
+            "vercel":"https://swegga-virid.vercel.app/",
+            "description":"This is a page that i designed based on a reference image my lectuer gave me",
+            "image":"https://github.com/nazabrahams/hostedimages3/blob/main/Screenshot%202024-07-05%20102328.png?raw=true"
         }
     ],
     
@@ -46,7 +53,7 @@
             "contact":"",
                 
                     "name":"Principal",
-                    "contactDetails":"0974923086"
+                    "contactDetails":"021 797 8043"
                 
             
         },
@@ -57,18 +64,18 @@
             "contact":"",
                 
                     "name":"Dean",
-                    "contactDetails":"045683362"
+                    "contactDetails":"021 808 9111"
                 
             
         },
         {
             "description":"Coding academy",
-            "year":"2nd Aprill 2024- the present",
+            "year":"2nd Aprill 2024- Current",
             "placeOfInstitution":"Life Choices Coding Academy",
             "contact":"",
                 
                     "name":"Candace Armon",
-                    "contactDetails":"097266433"
+                    "contactDetails":"021 696 4157"
                 
             
         }
@@ -99,10 +106,10 @@
         {
             "placeOfWork":"Cotton-On",
             "year":"2023-2024",
-            "description":"Worked as a christmas casual from novenmber to january. I helped assit in the store",
+            "description":"Worked as a christmas casual from November to January. I helped assit in the store",
             "contact":{
                 "name":"Asma",
-                "cell":"098567332",
+                "cell":"021 671 6151",
                 "position":"Store Manager"
             }
         }
